@@ -2975,7 +2975,7 @@ and change @REDACTED to be true
 
 
 
-**University of California: Irvine** - Bachelor of Science, Computer Science,   **GPA** 3.8<span class="spacer"></span><i>Exp Grad: Dec 2025</i><h5>Coursework: Machine Learning, Data Structures (C++), Databases, Probability + Optimization in CS, Data Retrieval</h5>
+**University of California: Irvine** - Bachelor of Science, Computer Science,   **GPA** 3.8<span class="spacer"></span><i>Grad: Dec 2025</i><h5>Coursework: Machine Learning, Data Structures (C++), Databases, Probability + Optimization in CS, Data Retrieval</h5>
 
 
 
@@ -6151,9 +6151,9 @@ and change @REDACTED to be true
 
 ### Artificial Intelligence Intern | Aveva  <span class="spacer"></span> June 2025 - September 2025
 *International Leader in Industrial Software*<span class="spacer"></span>DevOps | Agents | C# | .NET | Azure ML | Angular JS | GraphQL | OpenAI
-- Constructed **Model Context Protocol** (MCP) server on **Semantic Kernel** (SK) exposing deterministic GraphQL/metadata to a **GPT‑4.1** industrial chatbot; foundation of AVEVA’s evolving AI SDK & Services expected to be leveraged by **100+ devs**.
-- Prototyped **Agent2Agent** (Google's A2A), packaged Query tools into modules. With **Angular JS** UI, **SSE** streaming, citations, & **HITL** continuation; for **multi‑tool** orchestration and future **multi‑agent** architectures. Shared learnings with **3** product teams.
-- Integrated **Generative Analytics** Calculation Engine feature: orchestrated **ad-hoc Python** session-pools (Azure) via A2A SDK with MCP servers (data search + code execution); Assistant can generate equations + code and **execute Python at will**.
+- Built **MCP** (Model Context Protocol) server on **Semantic Kernel** exposing deterministic GraphQL/metadata to a **GPT‑4.1** industrial chatbot; foundation for AVEVA’s **AI SDK** expected to be leveraged by **100+ devs**.
+- Prototyped **Agent2Agent** (Google's A2A), with modular Query tools; Shipped **Angular JS** UI, **SSE** streaming, citations, & **HITL** continuation; for **multi‑tool** orchestration and future **multi‑agent** architectures. Shared learnings with **3 product teams**.
+- **Generative Analytics Calculation Engine** feature: orchestrated **ad-hoc Python** session-pools (Azure) via A2A SDK with MCP servers (data search + code execution); Assistant can generate equations + code and **execute Python at will**.
 - Fabricated a **query evaluation set** with automated **Azure Machine Learning** pipelines & **Observable‑AI** dashboards cutting manual evalution from **hours to minutes**, accelerating developer iteration.
 
 
@@ -9195,8 +9195,8 @@ and change @REDACTED to be true
 
 ## Projects
 ### Clera - Co Founder<span class="spacer"></span>
-*"Investment advice shouldn’t just be for the wealthy — so we’re building Clera."*<span class="spacer"></span> SEC-compliant | Multi Agent
-- [askclera.com](https://askclera.com)
+*"Investment advice shouldn’t just be for the wealthy, so we’re building Clera."*<span class="spacer"></span> SEC-compliant | Multi Agent
+- [askclera.com](https://askclera.com) Intelligent brokerage, take a look (stealth).
 ### Options Strategy Generation with Deep Learning<span class="spacer"></span>
 *Solo-designed Options strategy using Neural Network* <span class="spacer"></span> Python | Keras | TensorFlow | Pandas | Black-Scholes
 - Developed a **deep neural network model** using Keras and TensorFlow for accurate prediction of option prices, Synthesized Greeks derived using **Black-Scholes**. **Mentored** by Jeffrey T. Ludwig, pioneer in the Quant field.
@@ -9460,7 +9460,7 @@ and change @REDACTED to be true
 
 
 
-## Skills & interests
+## Skills
 **Skills** | Python ( PyTorch/TensorFlow, Pandas, NumPy, Matplotlib ), C++, C, Azure (DevOps, AML), SQL, Git, Javascript, Linux
 
 **Certifications**|   <b> Akuna Capital</b>:  Options 201 (Highly Selective Quant Options Course)
