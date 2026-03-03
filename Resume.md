@@ -800,117 +800,6 @@ Easily remove personal info by using a variable follow with a second value and "
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 and change @REDACTED to be true
 
 
@@ -2975,7 +2864,7 @@ and change @REDACTED to be true
 
 
 
-**University of California: Irvine** - Bachelor of Science, Computer Science,   **GPA** 3.8<span class="spacer"></span><i>Grad: Dec 2025</i><h5>Coursework: Machine Learning, Data Structures (C++), Databases, Probability + Optimization in CS, Data Retrieval</h5>
+**University of California: Irvine** - Bachelor of Science, Computer Science,   **GPA** 3.83<span class="spacer"></span><i>Sept 2023 - Dec 2025</i><h5>Coursework: Machine Learning, Data Structures (C++), Databases, Probability + Optimization in CS, Data Retrieval</h5>
 
 
 
@@ -6147,17 +6036,14 @@ and change @REDACTED to be true
 
 
 
+### AI & ML Graduate (Full-Time) ← Artificial Intelligence Intern | Aveva  <span class="spacer"></span> June 2025 - Present
+*International Leader in Industrial Software*<span class="spacer"></span>DevOps | Agents | C# | .NET | Azure ML | Angular JS | GraphQL | Semantic Kernel
 
-
-### Artificial Intelligence Intern | Aveva  <span class="spacer"></span> June 2025 - September 2025
-*International Leader in Industrial Software*<span class="spacer"></span>DevOps | Agents | C# | .NET | Azure ML | Angular JS | GraphQL | OpenAI
-- Built **MCP** (Model Context Protocol) server on **Semantic Kernel** exposing deterministic GraphQL/metadata to a **GPT‑4.1** industrial chatbot; foundation for AVEVA’s **AI SDK** expected to be leveraged by **100+ devs**.
-- Prototyped **Agent2Agent** (Google's A2A), with modular Query tools; Shipped **Angular JS** UI, **SSE** streaming, citations, & **HITL** continuation; for **multi‑tool** orchestration and future **multi‑agent** architectures. Shared learnings with **3 product teams**.
-- **Generative Analytics Calculation Engine** feature: orchestrated **ad-hoc Python** session-pools (Azure) via A2A SDK with MCP servers (data search + code execution); Assistant can generate equations + code and **execute Python at will**.
-- Fabricated a **query evaluation set** with automated **Azure Machine Learning** pipelines & **Observable‑AI** dashboards cutting manual evalution from **hours to minutes**, accelerating developer iteration.
-
-
-
+- Full-time Engineer (Jan 2026–Present) building production **agentic** infrastructure for AVEVA’s industrial AI platform and SDK.  
+- Intern (June 2025–Sept 2025): Built **MCP** server exposing deterministic GraphQL; foundational to AVEVA’s AI SDK (**100+ devs**).  
+- Prototyped **Google A2A** multi-agent orchestration; shipped Angular JS UI (SSE, citations, HITL) and KT with **3** product teams.  
+- Engineered **Ad-hoc Calculation Engine** orchestrating Python session pools via A2A + MCP (search + code execution).  
+- **Automated** evaluation pipelines (Azure ML + dashboards), reducing manual testing from hours to minutes.
 
 
 
@@ -9463,7 +9349,7 @@ and change @REDACTED to be true
 ## Skills
 **Skills** | Python ( PyTorch/TensorFlow, Pandas, NumPy, Matplotlib ), C++, C, Azure (DevOps, AML), SQL, Git, Javascript, Linux
 
-**Certifications**|   <b> Akuna Capital</b>:  Options 201 (Highly Selective Quant Options Course)
+**Certifications**|   <b> Akuna Capital</b>:  Options 201 (Selective Quant Options Course)
 
 
 
@@ -11664,84 +11550,6 @@ and change @REDACTED to be true
 - Optimized Random forest decision trees to avoid overfit and efficiently pick up on nonlinear tendencies in the market.
 - Used Model in financial management strategy to place 3rd in CA Personal Finance Challenge 2023, winning $1000
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
