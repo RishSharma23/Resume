@@ -2864,7 +2864,7 @@ and change @REDACTED to be true
 
 
 
-**University of California: Irvine** - Bachelor of Science, Computer Science,   **GPA** 3.83<span class="spacer"></span><i>Sept 2023 - Dec 2025</i><h5>Coursework: Machine Learning, Data Structures (C++), Databases, Probability + Optimization in CS, Data Retrieval</h5>
+**University of California: Irvine** - Bachelor of Science, Computer Science,   **GPA** 3.86<span class="spacer"></span><i>Sept 2023 - Dec 2025</i><h5>Coursework: Machine Learning, Data Structures (C++), Databases, Probability + Optimization in CS, Data Retrieval</h5>
 
 
 
@@ -6365,7 +6365,7 @@ and change @REDACTED to be true
 
 
 
-### Machine Learning Researcher | UC Irvine <span class="spacer"></span> July 2024 - Present
+### Machine Learning Researcher | UC Irvine <span class="spacer"></span> July 2024 - December 2025
 
 
 
@@ -11550,6 +11550,44 @@ and change @REDACTED to be true
 - Optimized Random forest decision trees to avoid overfit and efficiently pick up on nonlinear tendencies in the market.
 - Used Model in financial management strategy to place 3rd in CA Personal Finance Challenge 2023, winning $1000
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
