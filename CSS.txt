@@ -9,7 +9,7 @@
 /* meta */
 body {
    font-family: Tinos, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-   font-size:  13.03px; /*change this to change body font size, does not change the sections headers or Rish sharma name */
+   font-size:  13.039px; /*change this to change body font size, does not change the sections headers or Rish sharma name */
    font-weight: 400;
 }
 
