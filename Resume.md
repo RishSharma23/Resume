@@ -1322,7 +1322,7 @@ and change @REDACTED to be true
 
 
 
-# {NAME}
+<span class="spacer"></span> <h1>{NAME}</h1> <span class="spacer"></span>
 
 
 
@@ -1834,8 +1834,9 @@ and change @REDACTED to be true
 
 
 
+ 
+<span class="spacer"></span>{LOCATION} (Open to Remote) | {PHONE} | {EMAIL}<span class="spacer"></span>
 
-{LOCATION} (Open to Remote) | {PHONE} | {EMAIL}
 
 
 
@@ -2091,8 +2092,7 @@ and change @REDACTED to be true
 
 
 
-
-[{LINKEDIN}](https://{LINKEDIN}) | [github.com/RishSharma23](https://{GITHUB})
+<span class="spacer"></span>[{LINKEDIN}](https://{LINKEDIN}) | [github.com/RishSharma23](https://{GITHUB})<span class="spacer"></span>
 
 
 
@@ -2864,7 +2864,7 @@ and change @REDACTED to be true
 
 
 
-**University of California, Irvine** - B.S, Computer Science,      **GPA** 3.86<span class="spacer"></span><i>Accelerated Grad: Sept '23 - Dec '25</i><h5>Coursework: Machine Learning, Data Structures (C++), Databases, Probability + Optimization in CS, Data Retrieval</h5>
+**University of California, Irvine** - B.S, Computer Science,      **GPA** 3.86<span class="spacer"></span><i>Grad: December '25</i>
 
 
 
@@ -6036,16 +6036,19 @@ and change @REDACTED to be true
 
 
 
-### Machine Learning Graduate (Full-Time) ← AI Intern | Aveva  <span class="spacer"></span> June 2025 - Present
-*International Leader in Industrial Software*<span class="spacer"></span> C# | .NET | Azure | Angular JS | GraphQL |MSFT Agentic Framework | DevOps 
+### Machine Learning Engr. (Full-Time) | Aveva <span class="spacer"></span> Jan 2026 - Present
+*International Leader in Industrial Software*<span class="spacer"></span> C# | .NET | Angular | GraphQL | MSFT Agentic Framework
 
-- Building production **agentic** infrastructure for AVEVA’s industrial AI platform and SDK.  
-- Built **MCP** server exposing deterministic GraphQL; foundational to AVEVA’s AI SDK (**100+ devs**).  
+- Building enterprise C# **agentic** infrastructure for AVEVA’s AI platform and SDK, used by **100+ devs**.
+- **Won** Aveva hackathon: air-gapped E2E HMI/SCADA validator on Hermes agent with vision. **Green lit for development.**  
+- Shipped production **MCP** server exposing AVEVA Platform Search to the Industrial Assistant across Aveva **distributed** systems.  
+- **Automated** evaluation pipelines (Azure ML), reducing LLM fine tuning time from weeks to days.
+
+### AI Intern | Aveva  <span class="spacer"></span> June 2025 - Sept 2025
+
+
 - Prototyped **Google A2A** multi-agent orchestration; shipped Angular JS UI (SSE, citations, HITL) and KT with **3** product teams.  
-- Engineered **Ad-hoc Calculation Engine** orchestrating Python session pools via A2A + MCP (search + code execution).  
-- **Automated** evaluation pipelines (Azure ML + dashboards), reducing manual testing from hours to minutes.
-
-
+- Engineered **Ad-hoc Calculation Engine** utilizing Python session pools enabling agent to execute code for complex calculations.
 
 
 
@@ -6233,7 +6236,7 @@ and change @REDACTED to be true
 
 
 ### CS Capstone Data Scientist | Accenture <span class="spacer"></span> January 2025 - June 2025
-*Global Consulting Firm Specializing in AI and Cloud Innovation*<span class="spacer"></span> PostgreSQL | Gemini | LangChain | React | TypeScript | Victory
+*Global Tech Consulting Firm*<span class="spacer"></span> PostgreSQL | Gemini | LangChain | React | Victory
 - Innovated a **Q&A Chatbot**: “GRCResponder,”  that cut General Rate Case prep by **95 %+** for client PG&E's **$15.4B** rate case.
 - **RAG** pipeline (semantic embeddings + vector DB) with **LLM-as-a-Judge** evaluation; achieved **>90 %** accuracy on **5,000+** docs.
 - **Green-lit** for consulting applications by Accenture Leadership. **Showcased** at UCI ICS Expo: [**Link.**](https://www.linkedin.com/posts/rish-sharma123_after-two-quarters-of-development-and-iteration-activity-7345291527973216256-dkHf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrm338B-s6nqofTrW9LB0ykOAmsOobu-10)
@@ -6624,7 +6627,7 @@ and change @REDACTED to be true
 
 *Project with UCI Prof. Ahmed, NASA JPL's Dr. Nick LaHaye, Climate Change AI*<span class="spacer"></span>Pandas | XArray | Matplotlib | Scikit-Learn
 - **Remote-sensing ML** project fusing animal GPS coords with **NASA PACE-OCI** ocean-color imagery to predict migration-linked impacts (e.g., algal blooms, vegetation change); standardized ingest, features, and labeling for analysis from OB.DAAC dataset.
-- Architecting **3-stage geospatial ETL pipeline** (geohashing → GeoCube fusion → mosaicing) with custom QC algos; chunked NetCDF transforms (GeoPandas/Xarray); **automated LULC dataset** creation and COCO-format segmentation masks (imputation, pixel-wise normalization, cloud masking).
+- Architected **3-stage geospatial ETL pipeline** (geohashing → GeoCube fusion → mosaicing) with custom QC algos; chunked NetCDF transforms (GeoPandas/Xarray); **automated LULC dataset** creation and COCO-format segmentation masks (imputation, pixel-wise normalization, cloud masking).
 
 
 
@@ -6883,9 +6886,8 @@ and change @REDACTED to be true
 
 ### Corporate Executive Chair | UCI ICS Student Council <span class="spacer"></span> May 2024 - June 2025
 *Official Student Government of the School of Information and Computer Sciences at UC Irvine*<span class="spacer"></span> Excel | Asana | SQL
-- **Product Management**: Led Corporate Integrations for ICSSC software used by **15k+** weekly users, enhancing feature alignment and usability to drive student engagement and industry collaboration.
-- **Cross-Functional**: Oversaw **15** committee members and collaborated with **11** ICSSC-affiliated student organizations.
-- **Notable Partners**: SpaceX, Deloitte, Microsoft, Northrop Grumman, Aveva. Conducted Recruitment, Sponsorships & Partnerships.
+- **Product Management**: Led Corporate Integrations for ICSSC software used by **15k+** weekly users, **Cross-Functional**: Oversaw **15** committee members and collaborated with **11** ICSSC-affiliated student organizations.
+- **Notable Partners**: SpaceX, Deloitte, Microsoft, Northrop Grumman, Aveva. Conducted recruitment events & partnerships.
 <!--- **Optimized Dev Workflows**: Transitioned tasks to Asana, boosting efficiency and cutting task completion time by 30%.-->
 
 
@@ -8041,7 +8043,7 @@ and change @REDACTED to be true
 
 
 
-- **Ensemble VotingClassifier**; **NLP** pipeline to classify text to 691 WCIRB codes; Cut underwriting time **40%** across **$400 M** port.
+- **Ensemble VotingClassifier; NLP** pipeline to classify text to 691 WCIRB codes; Cut underwriting time **40%** across **$400 M** port.
 <!--- Developed an **Ensemble VotingClassifier** comprised of a BERT (HuggingFace) LLM and Random Forest model. Classified plain English inputs into 691 unique WCIRB business types. Implemented BERT tokenization, Tensor creation for text input. Word2Vec Random Forest for structured data. Worked with Git and **MongoDB** for dataset, model, and dependencies versioning.
 - Created **NLP pipeline**: Web-scraping WCIRB data, TF-IDF vectorization, cosine similarity for WCIRB code matching. Advanced preprocessing: lemmatization, BERT word embeddings, Named Entity Recognition.
 - Improved underwriting efficiency, reduced manual review time for **$400 million** portfolio-->
@@ -9052,24 +9054,6 @@ and change @REDACTED to be true
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *National Educational Organization specializing in teaching kids to code*<span class="spacer"></span>Javascript | Python | Lua | Java | C++
 
 - Taught JavaScript, Python, and C++ to classes of **5-15 students**, mentoring advanced learners in **competitive coding**.
@@ -9080,13 +9064,13 @@ and change @REDACTED to be true
 
 
 ## Projects
-### Clera - Co Founder<span class="spacer"></span>
-*"Investment advice shouldn’t just be for the wealthy, so we’re building Clera."*<span class="spacer"></span> SEC-compliant | Multi Agent
-- [askclera.com](https://askclera.com) Intelligent brokerage, bridging the shortage of 100k human advisors.
+### Clera <span class="spacer"></span>
+*Co-Creator: bridging the shortage of 100k human advisors*<span class="spacer"></span> AWS | LangGraph | MCP | Node/Next.js | PostgreSQL
+- **[Askclera.com](https://askclera.com)** SEC approved intelligent brokerage.
 ### Options Strategy Generation with Deep Learning<span class="spacer"></span>
-*Solo-designed Options strategy using Neural Network* <span class="spacer"></span> Python | Keras | TensorFlow | Pandas | Black-Scholes
-- Developed a **deep neural network model** using Keras and TensorFlow for accurate prediction of option prices, Synthesized Greeks derived using **Black-Scholes**. **Mentored** by Jeffrey T. Ludwig, pioneer in the Quant field.
-- Used **live Options-chain data**, to form **trading strategy** incorporated risk management, volatility position sizing, and stop-loss.
+*Solo-designed Options strategy using Neural Network* <span class="spacer"></span> Keras | TensorFlow | Pandas | Black-Scholes
+- Developed a **deep neural network model** using Keras and TensorFlow for accurate prediction of option prices, synthesized Greeks derived using **Black-Scholes**. **Mentored** by Jeffrey T. Ludwig, pioneer in the Quant field.
+- Used **live Options-chain data** to form **trading strategy** incorporated risk management, volatility position sizing, and stop-loss.
 - **Winning $1000**: 3rd place in the CA Personal Finance Challenge. Achieved an **18.4% return** on JPM.
 
 <div className="vertical-spacer"></div>
@@ -9349,7 +9333,7 @@ and change @REDACTED to be true
 ## Skills
 **Skills** | Python ( PyTorch/TensorFlow, Pandas, NumPy, Matplotlib ), C++, C, Azure (DevOps, AML), SQL, Git, Javascript, Linux
 
-**Certifications**|   <b> Akuna Capital</b>:  Options 201 (Selective Quant Options Course)
+**Certifications**|   Akuna Capital:  Options 201 (Quant Options Course)
 
 
 
@@ -11550,6 +11534,305 @@ and change @REDACTED to be true
 - Optimized Random forest decision trees to avoid overfit and efficiently pick up on nonlinear tendencies in the market.
 - Used Model in financial management strategy to place 3rd in CA Personal Finance Challenge 2023, winning $1000
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
